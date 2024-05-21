@@ -1,6 +1,7 @@
 # StudyNotion Ed-Tech Platform
 
-StudyNotion is an innovative educational platform designed to facilitate seamless learning experiences for students and empower instructors to showcase their expertise. The website is built using ReactJS and TailwindCSS, and it utilizes Redux for state management
+StudyNotion is an innovative educational platform designed to facilitate seamless learning experiences for students and empower instructors to showcase their expertise. The website is built using ReactJS and TailwindCSS, and it utilizes Redux for state management.
+
 
 ## Frontend Pages
 
